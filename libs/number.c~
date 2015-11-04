@@ -2,7 +2,7 @@
 
 
 char in[1000];
-void changeToNum(char a)
+void changeToNum(wchar_t a)
 {
 	wchar_t ch;
 	in[_where] = a;
